@@ -9,13 +9,15 @@ body {
   .logo{
     width:100%;
     display: flex;
-    justify-content: center;
-    margin: 4% auto;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* margin: 4% auto; */
   }
 
   img{
     border: 2px solid #ae68c9;
     border-radius: 6px;
+    margin: 4% auto;
   }
 
   .container{
@@ -28,7 +30,7 @@ body {
     border-radius: 6px;
     padding: 20px;
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     border: 2px solid #ae68c9;
   }
 
